@@ -65,7 +65,7 @@ QR_Decomposition(a)
 
 ## Output
 ```
-![alt text](image.png)
+![alt text](<Screenshot 2026-08-18 100716.png>)
 
 ```
 
